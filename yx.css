@@ -4,8 +4,8 @@ body{
 }
 
 img{
-    width:55%;
-    height:55%;
+    width:75%;
+    height:75%;
     display:inline-block;
     margin:auto;
     border-width:2px;
@@ -19,4 +19,5 @@ heater {
     font-size:xx-large;
     text-align:center;
 }
+
 
