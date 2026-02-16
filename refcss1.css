@@ -1,0 +1,46 @@
+.padre {
+	width: 900px;
+	height: 200px;
+	background-color: white;
+	padding: 20px;
+	border:1px solid black;
+	position:absolute;
+	top:180px;
+
+	
+	
+}
+
+.hijo1 {
+	width: 100px;
+	height: 230px;
+	background-color:rgb(192,192,192);
+	border: 1px solid black;
+	color:red;
+	position:absolute;
+	top:5px;
+	left:5px;
+    padding-left:7px;
+}
+
+.hijo2 {
+	width: 95px;
+	height: 125px;
+	background-color:rgb(192,192,192);
+	border: 1px solid black;
+	color:red;
+	position:absolute;
+	top:100px;
+	left:5px;
+	padding-left:2px;
+}
+
+div img {
+	width:55px;
+	height: 88.99px;
+	display: block;
+	position:absolute;
+	top:5px;
+	left:25px;
+}
+
